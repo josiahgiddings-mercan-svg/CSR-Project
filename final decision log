@@ -1,0 +1,7 @@
+## Research Decisions
+
+| ID | Decision | Reason |
+|---|---|---|
+| DEC-001 | Use Source-001 | DOI and publisher verified |
+| DEC-002 | Reject Source-002 | Citation could not be verified |
+| DEC-003 | Use Claim-001 | Supported by primary research |
